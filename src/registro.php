@@ -17,6 +17,6 @@ if ($exito){
 }else{
     echo "Error: ".$conn->error;
     //header('Location: /loginyregistro/index.php?ok=0');
-}
+} 
 
 ?>

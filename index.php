@@ -13,4 +13,4 @@ include 'views/header.php';
     <a href="login.php">¿Ya estás registrado? Entra aquí</a>
 <?php
 include 'views/footer.php';
-?>
+?> 

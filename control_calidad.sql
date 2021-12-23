@@ -5,7 +5,7 @@
 -- Servidor: localhost
 -- Tiempo de generación: 23-12-2021 a las 20:32:39
 -- Versión del servidor: 10.4.22-MariaDB
--- Versión de PHP: 8.0.13
+-- Versión de PHP: 8.0.13 
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
